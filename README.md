@@ -3,7 +3,7 @@ In this task, you will be practicing HTML using some of its basic tags.
 
 ### Instructions
 - Fork and clone this repository
-- cd into the `HTML-beginners` folder.
+- cd into the `HTML-Task-01` folder.
 - Create a file called `index.html`.
 - Create a **stunning** web page of you choice(you can talk about yourself, or any favorite things) using:
      - `h1` tag.
